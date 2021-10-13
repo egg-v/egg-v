@@ -1,4 +1,4 @@
-:D
+!~ https://egg-v.github.io/ ~!
 
 <!---
 egg-v/egg-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
